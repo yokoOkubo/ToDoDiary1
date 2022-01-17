@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="spinner_values">
+        <item>非表示</item>
+        <item>表示</item>
+    </string-array>
+
+</resources>
